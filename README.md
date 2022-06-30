@@ -3,7 +3,7 @@
 Launch Program:
 
 1. Check that you have installed MySQL 8 with innodb on port 3306
-2. Run in MySQL db.sql file which located src/main/resources/db/db.sql (It will crete DB + user)
+2. Run in MySQL db.sql file which located src/main/resources/db/db.sql (It will create DB + user)
 3. Just run the program. Flyway will create table from src/main/resources/db/migration/V1__init.sql file
 
 # API DOCS
